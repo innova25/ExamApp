@@ -1,0 +1,2 @@
+# HUStudy
+student management system
