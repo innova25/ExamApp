@@ -1,2 +1,2 @@
-# HUStudy
-student management system
+# ExamApp
+Examination system
